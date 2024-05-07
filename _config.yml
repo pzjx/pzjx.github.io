@@ -1,6 +1,6 @@
 # Site settings
 title: 王佳欣🐶
-SEOTitle: Pjzx | BY Blog
+SEOTitle: Pjzx | Blog
 header-img: img/flowers1.jpg
 email: pzjx0215@gmail.com
 description: "I still don't know what to post yet."
@@ -91,7 +91,7 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 
 
 # Progressive Web Apps
-chrome-tab-theme-color: "#000000"
+chrome-tab-theme-color: "#4285f4"
 service-worker: true
 
 
